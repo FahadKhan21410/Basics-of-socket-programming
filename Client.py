@@ -19,8 +19,8 @@ def send(msg):
     Client.send(message)
 
 
-send("Jeo Fahad Ji")
-send("Fahad Jeo")
-send("level bano shera Jeo")
+send("Hi")
+send("How Are You?")
+
 
 send(Disconnect_msg)
