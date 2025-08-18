@@ -26,7 +26,6 @@ This project demonstrates how a TCP server and client can communicate with each 
 * /server.py   -> Handles incoming client connections, receives messages, manages threads
 * /client.py   -> Connects to the server, sends messages, and disconnects gracefully
 
-
 ## How To Run
 * Clone repository (bash: git clone https://github.com/username/project.git) or Download as ZIP
 * Open the code file in IDE that supports python
@@ -35,6 +34,7 @@ This project demonstrates how a TCP server and client can communicate with each 
 ## Demo
 * https://youtu.be/bpdgPMg5ZSU (How the code works)
 
-
+## License
+* This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 
