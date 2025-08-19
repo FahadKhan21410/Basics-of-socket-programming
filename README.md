@@ -35,6 +35,6 @@ This project demonstrates how a TCP server and client can communicate with each 
 * https://youtu.be/bpdgPMg5ZSU (How the code works)
 
 ## License
-* This project is licensed under the MIT License - see the [LICENSE] file for details.
+* This project is licensed under the MIT License - see the [[LICENSE](https://github.com/FahadKhan21410/Basics-of-socket-programming/blob/main/LICENSE)] file for details.
 
 
